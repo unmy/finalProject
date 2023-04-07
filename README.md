@@ -40,6 +40,3 @@
 
 ![QQ截图20210513202348](https://tuyong.oss-cn-hangzhou.aliyuncs.com/img/20210513203840.jpg)
 
-## 3. 总结
-
-简单的SSM整合的CRUD小demo，需要的同学可以拿去看看。
